@@ -1,0 +1,13 @@
+site_metadata:
+  title: 'Ciclo Tropixel: Mar das Coisas'
+  description: "Construindo a s\xE9tima edi\xE7\xE3o do Tropixel, em Ubatuba"
+  theme: tactile
+  github_repository_url: git@github.com:mardascoisas/mardascoisas.git
+  github_pages_url: https://mardascoisas.github.io/mardascoisas/
+  custom_domain: mardascoisas.tropixel.org
+source_repository: https://github.com/fonte-wiki/Backup-fonte-wiki
+content_mapping:
+  home_page_source: projetos/mardascoisas.md
+  subpages_folder: projetos/mardascoisas
+  destination_folder: site_contents
+  media_destination_folder: assets/media
