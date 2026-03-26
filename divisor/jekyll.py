@@ -1,4 +1,5 @@
 import os
+import yaml
 
 class JekyllSite:
     def __init__(self, path: str, config):
@@ -45,11 +46,14 @@ class JekyllSite:
 
         # Create _config.yml
         config_path = os.path.join(self.path, "_config.yml")
+        config_data = {
+            "title": self.config.site_metadata.title,
+            "description": self.config.site_metadata.description,
+            "theme": gem_name,
+            "url": self.config.site_metadata.github_pages_url,
+        }
         with open(config_path, "w") as f:
-            f.write(f"title: {self.config.site_metadata.title}\n")
-            f.write(f"description: {self.config.site_metadata.description}\n")
-            f.write(f"theme: {gem_name}\n")
-            f.write(f"url: {self.config.site_metadata.github_pages_url}\n")
+            yaml.dump(config_data, f, default_flow_style=False, sort_keys=False)
 
         # Create CNAME file if custom_domain is set
         if self.config.site_metadata.custom_domain and self.config.site_metadata.custom_domain != "<none>":
