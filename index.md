@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 ---
 
-***Construindo a sétima edição do Tropixel em Ubatuba***
+***Ciclo Tropixel - Mar das Coisas - LACO IOUSP Ubatuba***
 
 
 # Ciclo Tropixel: Mar das Coisas
