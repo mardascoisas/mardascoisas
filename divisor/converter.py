@@ -62,8 +62,7 @@ class Converter:
         Adds front matter to the beginning of the content.
         """
         fm_string = "---\n"
-        for key, value in front_matter.items():
-            fm_string += f"{key}: {value}\n"
+        fm_string += yaml.dump(front_matter, default_flow_style=False, sort_keys=False, allow_unicode=True)
         fm_string += "---\n\n"
         return fm_string + content
 
