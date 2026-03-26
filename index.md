@@ -1,5 +1,5 @@
 ---
-title: Ciclo Tropixel: Mar das Coisas
+title: 'Ciclo Tropixel: Mar das Coisas'
 ---
 
 ***Construindo a sétima edição do Tropixel, em Ubatuba***
