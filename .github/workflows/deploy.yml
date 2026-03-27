@@ -63,3 +63,4 @@ jobs:
           # publish_branch: gh-pages # Explicitly define if not default
           # disable the nojekyll default option of peaceiris actions
           disable_nojekyll: true # Tells the action NOT to add a .nojekyll file
+          cname: mardascoisas.tropixel.org
