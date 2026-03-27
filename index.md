@@ -8,7 +8,7 @@ layout: default
 
 # Ciclo Tropixel: Mar das Coisas
 
-## CONVOCATÓRIA POR PROPOSTAS E PARTICIPAÇÃO
+## CONVOCATÓRIA DE PROPOSTAS E PARTICIPAÇÃO
 
 ### CONSTRUINDO A SÉTIMA EDIÇÃO DO TROPIXEL, EM UBATUBA!!!
 
@@ -22,7 +22,7 @@ layout: default
 **ORGANIZAÇÃO:** [U.CC](https://ubatuba.cc) (Ubatuba Ciências/Culturas) e [LACO](https://lacoiousp.wordpress.com/) / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
-**MAIS INFORMAÇÕES:** https://mardascoisas.tropixel.org 
+**MAIS INFORMAÇÕES:** [https://mardascoisas.tropixel.org](https://mardascoisas.tropixel.org)
 
 ### Sobre o encontro
 
