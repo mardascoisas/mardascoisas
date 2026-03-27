@@ -3,10 +3,14 @@ title: Untitled
 layout: default
 ---
 
+***Ubatuba - 30/07 a 01/08***
+
 
 ## CONVOCATÓRIA DE PROPOSTAS E PARTICIPAÇÃO
 
 ### CONSTRUINDO A SÉTIMA EDIÇÃO DO TROPIXEL, EM UBATUBA!!!
+
+![cracha.jpg]({{ '/assets/media/cracha.jpg' | relative_url }})
 
 > Em alguns meses, a Base Oceanográfica do IOUSP em Ubatuba será palco do **Ciclo Tropixel Mar das Coisas**. Saiba mais abaixo sobre como contribuir e participar.
 
