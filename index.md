@@ -1,10 +1,8 @@
 ---
-title: 'Ciclo Tropixel: Mar das Coisas'
+title: Untitled
 layout: default
 ---
 
-
-# Ciclo Tropixel: Mar das Coisas
 
 ## CONVOCATÓRIA DE PROPOSTAS E PARTICIPAÇÃO
 
