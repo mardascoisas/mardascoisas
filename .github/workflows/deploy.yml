@@ -10,6 +10,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     permissions:
       contents: write # Needed for pushing to gh-pages branch
       actions: read # Potentially needed for listing artifacts via CLI, safer to include
