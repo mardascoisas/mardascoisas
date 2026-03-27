@@ -1,7 +1,7 @@
 site_metadata:
   title: 'Mar das Coisas'
   description: "Ciclo Tropixel - Mar das Coisas - LACO IOUSP Ubatuba"
-  theme: tactile
+  theme: minima
 
   github_repository_url: git@github.com:mardascoisas/mardascoisas.git
 

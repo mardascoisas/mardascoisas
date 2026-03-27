@@ -32,6 +32,8 @@ class Converter:
         # Adapt front matter
         if "title" not in front_matter:
             front_matter["title"] = self.get_title_from_content(content_body)
+        if "layout" not in front_matter:
+            front_matter["layout"] = "default"
 
         # Rewrite internal links
         content_body = self.rewrite_internal_links(content_body)
@@ -62,8 +64,10 @@ class Converter:
         Adds front matter to the beginning of the content.
         """
         fm_string = "---\n"
-        for key, value in front_matter.items():
-            fm_string += f"{key}: {value}\n"
+        if front_matter:
+            # Dump without the --- document separators
+            fm_dump = yaml.dump(front_matter, default_flow_style=False, sort_keys=False, allow_unicode=True)
+            fm_string += fm_dump
         fm_string += "---\n\n"
         return fm_string + content
 
