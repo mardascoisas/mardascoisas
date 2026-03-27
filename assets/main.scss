@@ -1,0 +1,80 @@
+---
+---
+/* U.CC / Mar das Coisas Aesthetic 
+   Shadowing divisor/assets/main.scss 
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;700&display=swap');
+
+// Palette: Deep Oceanic
+$deep-sea: #1a2a3a;
+$sea-mist: #f0f4f7; 
+$ucc-blue: #5d6edb; // From your agency logo
+$marine-slate: #2c3e50;
+
+body {
+    background-color: $sea-mist !important;
+    color: $deep-sea !important;
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 1.35rem;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headers: High Contrast & Professional */
+h1, h2, h3, h4 {
+    font-family: 'Inter', sans-serif !important;
+    color: $deep-sea;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 3.2rem;
+    border-bottom: 5px solid $ucc-blue;
+    display: inline-block;
+    padding-bottom: 0.3rem;
+    margin-bottom: 2rem;
+    letter-spacing: -0.02em;
+}
+
+/* Links & Nav: U.CC Branding */
+a {
+    color: $ucc-blue !important;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(93, 110, 219, 0.2);
+    transition: all 0.3s ease;
+    
+    &:hover {
+        border-bottom: 1px solid $ucc-blue;
+        opacity: 0.7;
+    }
+}
+
+/* Research/Convocatória Boxes */
+blockquote {
+    background: #ffffff;
+    border-left: 8px solid $deep-sea;
+    padding: 2.5rem;
+    margin: 3rem 0;
+    font-style: italic;
+    box-shadow: 15px 15px 0px rgba(26, 58, 90, 0.04);
+}
+
+/* Metadata & Footer */
+footer, .nav, .meta, .date, .site-title {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    opacity: 0.7;
+}
+
+/* Main Container Adjustment */
+.wrapper, .container, main {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+}
