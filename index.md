@@ -3,23 +3,24 @@ title: Untitled
 layout: default
 ---
 
-***Ubatuba - 30/07 a 01/08***
+***30/07 a 01/08 de 2026 - Ubatuba***
 
 
-## CONVOCATÓRIA DE PROPOSTAS E PARTICIPAÇÃO
+## Convocatória de propostas e participação
 
-### CONSTRUINDO A SÉTIMA EDIÇÃO DO TROPIXEL, EM UBATUBA!!!
+### Construindo a sétima edição do Tropixel - de volta a Ubatuba!
 
 ![cracha.jpg]({{ '/assets/media/cracha.jpg' | relative_url }})
 
 > Em alguns meses, a Base Oceanográfica do IOUSP em Ubatuba será palco do **Ciclo Tropixel Mar das Coisas**. Saiba mais abaixo sobre como contribuir e participar.
 
 - **DATAS:** 30/07 a 01/08
-- **LOCAL:** Base de Pesquisa Clarimundo de Jesus do IOUSP, Praia do Lamberto, Ubatuba.
+- **LOCAL:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
 - **PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
 - **INSCREVA-SE:** Link para Formulário (em breve)
 
 **ORGANIZAÇÃO:** [U.CC](https://ubatuba.cc) (Ubatuba Ciências/Culturas) e [LACO](https://lacoiousp.wordpress.com/) / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
+
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
 **MAIS INFORMAÇÕES:** [https://mardascoisas.tropixel.org](https://mardascoisas.tropixel.org)
@@ -36,4 +37,4 @@ A programação será realizada na Base do IOUSP (Praia do Lamberto, Ubatuba) en
 
 O LACO – Laboratório de Arte e Ciência Oceânica é uma plataforma transdisciplinar sediada no Instituto Oceanográfico da Universidade de São Paulo (IOUSP), vinculada à Cátedra UNESCO para a Sustentabilidade do Oceano e articulada ao Instituto de Estudos Avançados da Universidade de São Paulo (IEA-USP), com direção de Fabiane M. Borges e coordenação de Alexander Turra. Atua na interseção entre arte, ciência e tecnologia por meio de residências, exposições e programas públicos realizados em diálogo direto com infraestruturas de pesquisa oceanográfica, contribuindo para consolidar a arte e ciência oceânica como campo cultural e político no contexto da Década do Oceano.
 
-Tropixel é uma rede aberta atuando na intersecção entre cultura, tecnologia, ciência e sociedade. Surgiu em Ubatuba com a realização do Festival Tropixel em 2013, e desde então organizou diversos outros eventos em múltiplos formatos. Em 2026, a agência U.CC (Ubatuba Ciências/Culturas) está organizando o Tropixel: Ciclos, uma série de atividades explorando novos horizontes e formas de colaboração.
+Tropixel é uma rede aberta atuando na intersecção entre cultura, tecnologia, ciência e sociedade. Surgiu em Ubatuba com a realização do Festival Tropixel em 2013, e desde então organizou diversos outros eventos em múltiplos formatos. Em 2026, a agência U-CC (Ubatuba Ciências/Culturas) está organizando o Tropixel: Ciclos, uma série de atividades explorando novos horizontes e formas de colaboração.

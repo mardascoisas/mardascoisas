@@ -24,7 +24,7 @@ body {
 
 /* Headers: High Contrast & Professional */
 h1, h2, h3, h4 {
-    font-family: 'Inter', sans-serif !important;
+    font-family: 'Cormorant Garamond', sans-serif !important;
     color: $deep-sea;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -32,7 +32,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-    font-size: 3.2rem;
+    font-size: 3rem;
     border-bottom: 5px solid $ucc-blue;
     display: inline-block;
     padding-bottom: 0.3rem;
@@ -65,7 +65,7 @@ blockquote {
 
 /* Metadata & Footer */
 footer, .nav, .meta, .date, .site-title {
-    font-family: 'Inter', sans-serif !important;
+    font-family: 'Cormorant Garamond', sans-serif !important;
     font-size: 0.85rem;
     text-transform: uppercase;
     letter-spacing: 2.5px;
