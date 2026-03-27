@@ -6,3 +6,8 @@ __pycache__/
 config.yml
 site_contents
 source_repo
+mardascoisas.sublime-project
+mardascoisas.sublime-workspace
+Gemfile.lock
+.sass-cache
+_site
