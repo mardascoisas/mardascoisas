@@ -1,5 +1,6 @@
 ---
-title: Ciclo Tropixel: Mar das Coisas
+title: 'Ciclo Tropixel: Mar das Coisas'
+layout: default
 ---
 
 ***Ciclo Tropixel - Mar das Coisas - LACO IOUSP Ubatuba***
