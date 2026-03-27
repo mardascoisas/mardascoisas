@@ -3,8 +3,6 @@ title: Untitled
 layout: default
 ---
 
-***Ciclo Tropixel - Mar das Coisas - LACO IOUSP Ubatuba***
-
 
 ## CONVOCATÓRIA DE PROPOSTAS E PARTICIPAÇÃO
 
