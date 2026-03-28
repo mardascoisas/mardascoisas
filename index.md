@@ -3,7 +3,7 @@ title: 'Ciclo Tropixel: Mar das Coisas'
 layout: default
 ---
 
-***30/07 a 01/08 de 2026 - Ubatuba***
+***Convocatória de Propostas e Participação***
 
 
 # Ciclo Tropixel: Mar das Coisas
