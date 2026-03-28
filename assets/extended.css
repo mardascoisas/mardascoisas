@@ -1,0 +1,5 @@
+a img[src*="img.shields.io"] {
+    height: 42px;
+    width: auto;
+    margin: 10px 0;
+}
