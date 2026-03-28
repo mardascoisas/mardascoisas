@@ -12,7 +12,7 @@ layout: default
 
 ### 30/07 a 01/08 de 2026 - Ubatuba
 
-![cracha.jpg]({{ '/cracha.jpg  =100%x' | relative_url }})
+![cracha.jpg]({{ '/assets/media/cracha.jpg' | relative_url }})
 
 > A Base Oceanográfica do IOUSP em Ubatuba será palco do **Ciclo Tropixel Mar das Coisas**. Saiba mais abaixo sobre como contribuir e participar.
 
@@ -35,7 +35,7 @@ Convidamos pesquisadores e acadêmicos, governo, sociedade civil organizada, set
 
 ### Colabore para a construção de proposições de limpeza e despoluição das águas!
 
-[![Envie sua Proposta](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
+[![Envie sua Proposta](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge)](https://tally.so/r/QKd4jl)
 
 ## Programação e organização
 
@@ -52,4 +52,4 @@ Tropixel é uma rede aberta atuando na intersecção entre cultura, tecnologia, 
 
 ### Realização
 
-![logos.png]({{ '/logos.png  =100%x' | relative_url }})
+![logos.png]({{ '/assets/media/logos.png' | relative_url }})
