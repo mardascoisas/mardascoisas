@@ -74,13 +74,19 @@ footer, .nav, .meta, .date, .site-title {
 
 /* Main Container Adjustment */
 .wrapper, .container, main {
-    max-width: 850px;
+    max-width: 1050px;
     margin: 0 auto;
-    padding: 4rem 2rem;
+    padding: 1.5rem 2rem;
 }
 
 /* Responsive Images */
 img {
     max-width: 100%;
     height: auto;
+}
+
+a img[src*="img.shields.io"] {
+    height: 42px;
+    width: auto;
+    margin: 10px 0;
 }
