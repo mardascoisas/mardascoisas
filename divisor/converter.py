@@ -35,6 +35,9 @@ class Converter:
         if "layout" not in front_matter:
             front_matter["layout"] = "default"
 
+        # Strip wiki.js sizing tags
+        content_body = self.strip_wikijs_sizing(content_body)
+
         # Rewrite internal links
         content_body = self.rewrite_internal_links(content_body)
 
@@ -108,3 +111,9 @@ class Converter:
                 return match.group(0)
 
         return ASSET_REGEX.sub(replace_link, content)
+
+    def strip_wikijs_sizing(self, content):
+        """
+        Removes wiki.js specific image sizing parameters (e.g., =100%x, =240x) from the end of URLs inside Markdown links/images.
+        """
+        return re.sub(r"(\!?\[.*?\]\([^\)]*?)\s+=[0-9%]+x?[0-9]*(\))", r"\1\2", content)
