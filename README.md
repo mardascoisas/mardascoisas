@@ -224,3 +224,10 @@ To add your own custom CSS, you can create a file named `extended.css` in the `d
 ## `setup.py`
 
 The `setup.py` file is a standard Python script that's used to package and distribute the Divisor tool. It defines the package name, version, dependencies, and entry points. You don't need to interact with this file directly unless you want to modify the packaging of the tool.
+
+### Cross-Platform Buttons (Wiki & Jekyll)
+If you want to add buttons (e.g., a "Submit Proposal" button) that render correctly on both your GitHub Wiki and your generated Jekyll site, the most reliable method is to use a Markdown image wrapped in a link. This avoids HTML/CSS sanitization issues on GitHub Wikis.
+
+```markdown
+[![Submit Proposal](https://img.shields.io/badge/Submit_Proposal-blue?style=for-the-badge)](https://your-proposal-submission-form.com)
+```
