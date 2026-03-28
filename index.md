@@ -8,7 +8,7 @@ layout: default
 
 # Ciclo Tropixel: Mar das Coisas
 
-## Ajude a construir a sétima edição do Tropixel - de volta a Ubatuba!
+## Ajude a construir a sétima edição do Tropixel!
 
 ### 30/07 a 01/08 de 2026 - Ubatuba
 
@@ -21,7 +21,7 @@ layout: default
 - **PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
 - **FORMULÁRIO DE PROPOSTA / INSCRIÇÃO:** [Veja abaixo](#convocatória-de-propostas-e-participação).
 
-**ORGANIZAÇÃO:** [U.CC](https://ubatuba.cc) (Ubatuba Ciências/Culturas) e [LACO](https://lacoiousp.wordpress.com/) / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
+**ORGANIZAÇÃO:** U\.CC (Ubatuba Ciências/Culturas) e LACO / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
 
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
@@ -41,9 +41,9 @@ Convidamos pesquisadores e acadêmicos, governo, sociedade civil organizada, set
 
 A programação será realizada na Base do IOUSP (Praia do Lamberto, Ubatuba) entre os dias **30/7 e 01/08 de 2026**. Estão previstos debates sobre toxicidade e descarte de resíduos, oficinas técnicas sobre monitoramento ambiental acessível e de baixo custo, troca de experiências sobre limpeza e despoluição, e intercâmbio entre conhecimentos acadêmicos e saberes tradicionais. O objetivo fundamental do encontro é **estabelecer alianças e cooperação multissetorial** para a limpeza de manguezais, rios e regiões costeiras.
 
-O LACO – Laboratório de Arte e Ciência Oceânica é uma plataforma transdisciplinar sediada no Instituto Oceanográfico da Universidade de São Paulo (IOUSP), vinculada à Cátedra UNESCO para a Sustentabilidade do Oceano e articulada ao Instituto de Estudos Avançados da Universidade de São Paulo (IEA-USP), com direção de Fabiane M. Borges e coordenação de Alexander Turra. Atua na interseção entre arte, ciência e tecnologia por meio de residências, exposições e programas públicos realizados em diálogo direto com infraestruturas de pesquisa oceanográfica, contribuindo para consolidar a arte e ciência oceânica como campo cultural e político no contexto da Década do Oceano.
+O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpress.com/) é uma plataforma transdisciplinar sediada no Instituto Oceanográfico da Universidade de São Paulo (IOUSP), vinculada à Cátedra UNESCO para a Sustentabilidade do Oceano e articulada ao Instituto de Estudos Avançados da Universidade de São Paulo (IEA-USP), com direção de Fabiane M. Borges e coordenação de Alexander Turra. Atua na interseção entre arte, ciência e tecnologia por meio de residências, exposições e programas públicos realizados em diálogo direto com infraestruturas de pesquisa oceanográfica, contribuindo para consolidar a arte e ciência oceânica como campo cultural e político no contexto da Década do Oceano.
 
-Tropixel é uma rede aberta atuando na intersecção entre cultura, tecnologia, ciência e sociedade. Surgiu em Ubatuba com a realização do Festival Tropixel em 2013, e desde então organizou diversos outros eventos em múltiplos formatos. Em 2026, a agência U-CC (Ubatuba Ciências/Culturas), dirigida por Felipe Schmidt Fonseca, está organizando o [Tropixel: Ciclos](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos), com previsão de organizar série de atividades explorando novos horizontes e formas de colaboração.
+[Tropixel](https://tropixel.org) é uma rede aberta atuando na intersecção entre cultura, tecnologia, ciência e sociedade. Surgiu em Ubatuba (justamente em cima do *Trópico de Capricórnio*, daí o nome) com a realização do [Festival Tropixel em 2013](https://tropixel.org/13-festival), e desde então organizou diversos outros eventos em múltiplos formatos. Em 2026, a agência [U-CC](https://ubatuba.cc) (Ubatuba Ciências/Culturas), dirigida por Felipe Schmidt Fonseca, está organizando o [Tropixel: Ciclos](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos), com previsão de organizar série de atividades explorando novos horizontes e formas de colaboração.
 
 ### Saiba mais
 
