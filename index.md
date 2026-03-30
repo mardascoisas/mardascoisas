@@ -47,9 +47,10 @@ O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpre
 
 ### Saiba mais
 
-- [Sobre Ubatuba]({{ '/ubatuba' | relative_url }})
+- [English version]({{ '/en' | relative_url }})
 
 
 ### Realização
 
 ![logos.png]({{ '/assets/media/logos.png' | relative_url }})
+
