@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: null
 published: true
-date: 2026-04-02 10:35:01.720000+00:00
+date: 2026-04-02 18:57:39.611000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-03-30 08:15:32.235000+00:00
@@ -94,5 +94,5 @@ Unesco Chair for Ocean Sustainability (IOUSP and IEA-USP)
 
 ### See also
 
-- [Portuguese Version]({{ '' | relative_url }})
+- [Portuguese Version](https://mardascoisas.tropixel.org)
 - [Tropixel Cycles 2026](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos)
