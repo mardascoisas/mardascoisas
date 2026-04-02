@@ -8,7 +8,7 @@ layout: default
 
 # Tropixel: Mar das Coisas
 
-Tropixel Ciclos - Sétima Edição
+*Tropixel Ciclos - Sétima Edição*
 
 #### Encontro sobre água no Instituto Oceanográfico da USP / Base Ubatuba
 
