@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: null
 published: true
-date: 2026-04-02 18:57:39.611000+00:00
+date: 2026-04-05 09:23:17.544000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-03-30 08:15:32.235000+00:00
@@ -12,7 +12,7 @@ layout: default
 ***Convocatória de Propostas e Participação***
 
 
-# Tropixel: Sea of Things
+# Tropixel: Mar das Coisas / Sea of Things
 
 Tropixel Cycles - Seventh Edition
 
