@@ -14,7 +14,8 @@ layout: default
 
 ### Ubatuba - 30 de Julho a 1º de Agosto de 2026
 
-![cracha.jpg]({{ '/assets/media/cracha.jpg' | relative_url }})
+![4807648_karuvadgraphy.jpg]({{ '/assets/media/4807648_karuvadgraphy.jpg' | relative_url }})
+Image by <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
 [![Inscreva-se](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge)](https://tally.so/r/QKd4jl)
 
@@ -24,9 +25,9 @@ layout: default
 >
 > Buscamos projetos, práticas, pesquisas e dispositivos que atuem diretamente nas condições materiais de contaminação e circulação da água.
 
-- **Prazo de inscrições:** 31 de Maio de 2026
+- **Prazo de inscrições:** 6 de Junho de 2026
 - **Submeta sua proposta:** Formulário [aqui](https://tally.so/r/QKd4jl).
-- **Datas do encontro:** 30de Julho a 1º de Agosto de 2026
+- **Datas do encontro:** 30 de Julho a 1º de Agosto de 2026
 - **Local:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
 
 ## O que será desenvolvido no encontro?
