@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: null
 published: true
-date: 2026-05-21 08:38:21.819000+00:00
+date: 2026-06-11 12:00:25.827000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-03-30 08:15:32.235000+00:00
@@ -24,18 +24,20 @@ Tropixel Cycles - Seventh Edition
 
 Image by <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
-[![Submit your Proposal](https://img.shields.io/badge/Submit%20your%20Proposal-5d6edb?style=for-the-badge)](https://tally.so/r/QKd4jl)
+[![Register](https://img.shields.io/badge/Register-now!-5d6edb?style=for-the-badge)](https://tally.so/r/eqoMaQ)
 
 ## Participate
 
-> The call for proposals is now open for the study, monitoring, and decontamination of waters — rivers, mangroves, and coastal zones of the Atlantic Forest.
+> ~~The call for proposals is now open for the study, monitoring, and decontamination of waters — rivers, mangroves, and coastal zones of the Atlantic Forest.~~
 >
-> We seek projects, practices, research, and devices that act directly on the material conditions of water contamination and circulation.
+> ~~We seek projects, practices, research, and devices that act directly on the material conditions of water contamination and circulation.~~
+>
+> **Update:** the call is now closed. We will provide feedback soon. To talk about other forms of collaboration, please reach out to Fabiane or Felipe directly.
 
-- **Application deadline:** June 6th, 2026
-- **Submit your proposal:** Form [here](https://tally.so/r/QKd4jl)
 - **Meeting dates:** July 30th to August 1st
 - **Location:** "Clarimundo de Jesus" IOUSP Research Base - Praia do Lamberto, Ubatuba / SP.
+- ~~**Application deadline:** June 6th, 2026~~
+- ~~**Submit your proposal:** Form [here](https://tally.so/r/QKd4jl)~~
 
 ## What will be developed at the meeting?
 
@@ -50,6 +52,8 @@ The program is built from the selected proposals and develops as a collective wo
 - **Territorial knowledge:** Sharing local practices, situated experiences, and forms of knowledge linked to territories.
 - **Decontamination actions:** Development of propositions applicable to rivers, mangroves, and coastal regions, with a focus on direct intervention and material feasibility.
 
+[![Register](https://img.shields.io/badge/Register-now!-5d6edb?style=for-the-badge)](https://tally.so/r/eqoMaQ)
+
 ## Curatorial text
 
 The **Sea of Things** starts from the perception that the ocean, rivers, mangroves, and coastal zones compose a continuous material network of circulation. Everything passes through water: industrial waste, chemical compounds, nutrients, microplastics, measurements, infrastructures, and political decisions. Water stores, moves, and redistributes these traces. It operates as a moving archive, a surface of inscription for the present.
@@ -57,8 +61,6 @@ The **Sea of Things** starts from the perception that the ocean, rivers, mangrov
 In dialogue with the Internet of Things, where connected objects continuously produce information, a material inflection is proposed here: matter itself informs. Suspended particles, physicochemical indices, and environmental variations make legible production chains, disposal trajectories, and operating modes of the infrastructures that cross the territories.
 
 The Sea of Things names this field in which matter and information circulate together. A field of reading and action.
-
-[![Submit your Proposal](https://img.shields.io/badge/Submit%20your%20Proposal-5d6edb?style=for-the-badge)](https://tally.so/r/QKd4jl)
 
 ### About Tropixel
 
