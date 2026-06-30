@@ -96,3 +96,11 @@ Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em 
 
 - [English version]({{ '/en' | relative_url }})
 - [Tropixel Ciclos 2026](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos)
+
+#### Teste de tabela
+
+| Header A1 | Header B1 | Header C1 |
+|-----------|-----------|-----------|
+| Cell A2   | Cell B2   | Cell C2   |
+| Cell A3   | Cell B3   | Cell C3   |
+...
