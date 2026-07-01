@@ -59,6 +59,17 @@ A depender das condições do clima, vamos ajudar a organizar um passeio de barc
 
 [![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge)](https://tally.so/r/eqoMaQ)
 
+## Presenças já confirmadas
+
+*(atualizado em 01/07/2026)*
+
+- [Mariana Vilela](https://www.marianavilela.com/)
+- Carla / [Instituto Argonauta](https://institutoargonauta.org/new/)
+- Naimara e Kathleen / [Projeto Recriamar](https://www.instagram.com/recriamar/)
+- Diana / [Pegada Hídrica](https://climacom.mudancasclimaticas.net.br/pegada-hidrica/)
+- Luciana Frazão / [IOUSP](https://www.io.usp.br/)
+- Samara / [IOUSP](https://www.io.usp.br/)
+
 ## Texto curatorial
 
 Mar das Coisas parte da percepção de que o oceano, os rios, os manguezais e as zonas costeiras compõem uma rede material contínua de circulação. Tudo passa pela água: resíduos industriais, compostos químicos, nutrientes, microplásticos, medições, infraestruturas e decisões políticas. A água guarda, desloca e redistribui esses vestígios. Opera como um arquivo em movimento, uma superfície de inscrição do presente.
