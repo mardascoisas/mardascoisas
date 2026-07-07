@@ -61,14 +61,20 @@ A depender das condições do clima, vamos ajudar a organizar um passeio de barc
 
 ## Presenças já confirmadas
 
-*(atualizado em 01/07/2026)*
+*(atualizado em 07/07/2026)*
 
-- [Mariana Vilela](https://www.marianavilela.com/)
+- Afonso Reis (Maffa) / [LACO](https://lacoiousp.wordpress.com/)
 - Carla / [Instituto Argonauta](https://institutoargonauta.org/new/)
-- Naimara e Kathleen / [Projeto Recriamar](https://www.instagram.com/recriamar/)
 - Diana / [Pegada Hídrica](https://climacom.mudancasclimaticas.net.br/pegada-hidrica/)
+- Felipe Penin / [Sango Acoustics](https://sangoacoustics.com.br/)
+- [Floriana Breyer](https://www.florianabreyer.com/) / Biodiversas Lab
 - Luciana Frazão / [IOUSP](https://www.io.usp.br/)
+- [Luiza Prado](https://www.luiza-prado.com/)
+- [Mariana Vilela](https://www.marianavilela.com/)
+- Naimara e Kathleen / [Projeto Recriamar](https://www.instagram.com/recriamar/)
+- Rodrigo Araujo
 - Samara / [IOUSP](https://www.io.usp.br/)
+- [Teresa Dillon](https://polarproduce.org/)
 
 ## Texto curatorial
 
