@@ -161,9 +161,7 @@ Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em 
 
 **APOIO:** Casa de Saúde Cultura Viva
 
-![logos.png]({{ '/assets/media/logos.png' | relative_url }})
-
-![saudeculturaviva-logo.jpg]({{ '/assets/media/saudeculturaviva-logo.jpg' | relative_url }})
+![logos-todos.png]({{ '/assets/media/logos-todos.png' | relative_url }})
 
 ### Veja também
 
