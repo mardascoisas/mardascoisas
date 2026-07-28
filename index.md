@@ -86,7 +86,7 @@ A atividade integra as metodologias desenvolvidas pelo Psique.Space — Laborat�
 Apresentação de pesquisas e práticas artísticas relacionadas à água, aos ambientes costeiros, às infraestruturas, aos sistemas de informação e às transformações ecológicas.
 - Moderação: Malu Hatoum (Artista - Pesquisadora - UFF)
 - Pesquisa e arte/natureza: Mariana Vilela
-- Arte e curadoria: Teresa Dillon
+- Arte e curadoria: Teresa Dillon (Repair Acts, Winchester School of Art, Universidade de Southampton, Reino Unido)
 - Videoarte e arte/tecnologia : Diana Zatz
 
 **15h - Construção do documento público**
