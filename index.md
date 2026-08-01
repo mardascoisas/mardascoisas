@@ -110,10 +110,11 @@ Debate aberto sobre os procedimentos, conceitos e tecnologias apresentados, com 
 **Atividade auto-organizada em grupos.** Os participantes são convidados a visitar diferentes pontos da Bacia Hidrográfica do Rio Grande de Ubatuba (incluindo os rios Grande, Tavares e Acaraú),  para coletar imagens, amostras, áudio, vídeos, desenhos, etc.
 
 **14h - Conectando Bacias: construção de ações, com Floriana Breyer - Biodiversas Lab**
+
 Casa de Saúde Cultura Viva
 R. Dr. Esteves da Silva, 468 - Centro, Ubatuba - SP
 
-Uso da meetodologia Barcas Regenerativas para a construção de alianças e colaborações futuras para a limpeza e despoluição de bacias hidrográgicas.
+Uso da meetodologia Barcas Regenerativas para a construção de alianças e colaborações futuras para a limpeza e despoluição de bacias hidrográficas.
 
 **16h - Plenária final e encerramento**
 Apresentação dos encaminhamentos elaborados pelos grupos, definição dos próximos passos e encerramento da programação principal do Tropixel: Mar das Coisas 2026.
