@@ -1,5 +1,5 @@
 ---
-title: 'Tropixel: Mar das Coisas'
+title: 'Tropixel Ciclos: Mar das Coisas'
 layout: default
 ---
 
@@ -7,9 +7,7 @@ layout: default
 
 
 
-# Tropixel: Mar das Coisas
-
-*Tropixel Ciclos - Sétima Edição*
+# Tropixel Ciclos: Mar das Coisas
 
 #### Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba
 
@@ -23,74 +21,19 @@ Entre os dias 30 de julho e 1º de agosto de 2026, aconteceu em Ubatuba o encont
 
 As atividades foram sediadas em dois locais: o Laboratório de Arte e Ciência Oceânica (LACO), localizado na Base Oceanográfica Clarimundo de Jesus (IOUSP), na Praia do Lamberto; e a Casa de Saúde Cultura Viva. 
 
-Esta publicação reúne a documentação aberta do encontro: os registros dos debates, as dinâmicas em grupo, o material fotográfico e sonoro produzido, as metodologias aplicadas, e os primeiros encaminhamentos de continuidade.
-
-## Atividades desenvolvidas
-
-
----
-
-### 31/07, Sexta-feira - Imaginação Ambiental, Arte e Ciência das Águas
-*Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
-
-**Registro:** [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul-debates-grupos' | relative_url }})
-
-**10h - Cartas Climáticas: dinâmica de criação coletiva - Psique.Space com Fabiane M. Borges**
-A atividade integra as metodologias desenvolvidas pelo Psique.Space — Laboratório Social para o Futuro, articulando imaginação, experiência grupal e construção de cenários climáticos. Participantes formaram grupos para responder criativamente às cartas distribuídas.
-
-**Almoço**
-
-**14h - Tour guiado da Exposição do LACO com artistas presentes**
-
-**15h - Arte, ciência e materialidades da água**
-Apresentação de pesquisas e práticas artísticas relacionadas à água, aos ambientes costeiros, às infraestruturas, aos sistemas de informação e às transformações ecológicas.
-
-- Pesquisa e arte/natureza: Mariana Vilela
-- Arte e curadoria: Teresa Dillon (Repair Acts, Winchester School of Art, Universidade de Southampton, Reino Unido)
-- Videoarte e arte/tecnologia : Diana Zatz
-
-**16h - Construindo alianças**
-
-Debate aberto sobre os procedimentos, conceitos e tecnologias apresentados, com participação do público.
-
-**Atividades Paralelas:**
-
-- **O dia todo:** Exposição da Galeria LACO.
-- A partir das **17h30, no Centro Cultural Vila Caiçara (Centro):** Comemoração do Dia da Mulher Negra, Latino-americana e Caribenha. Mais informações [aqui](https://www.instagram.com/p/DapyOxNjr3B/?igsh=MWszY2E0cWR2M3d5OQ%3D%3D).
-
----
-
-### 01/08, Sábado - Mãos na Água: bacias, percursos e ações
-
-**Registro:** [Dia 3 (01/08) · Saída de Campo e Oficina BARCAS]({{ '/01-ago-bacia-barcas' | relative_url }})
-
-**Manhã - Saída a campo: bacias hidrográficas**
-
-**Atividade auto-organizada em grupos.** Os participantes foram convidados a visitar diferentes pontos das Bacia Hidrográficas de Ubatuba para coletar imagens, amostras, áudio, vídeos, desenhos, etc.
-
-**14h - Conectando Bacias: construção de ações, com Floriana Breyer - Biodiversas Lab**
-
-Casa de Saúde Cultura Viva
-R. Dr. Esteves da Silva, 468 - Centro, Ubatuba - SP
-
-Uso da meetodologia Barcas Regenerativas para a construção de alianças e colaborações futuras para a limpeza e despoluição de bacias hidrográficas.
-
-**17h - Plenária final e encerramento**
-Apresentação dos encaminhamentos elaborados pelos grupos, definição dos próximos passos e encerramento da programação principal do Mar das Coisas.
-
----
+Este site reúne a documentação aberta do encontro: os registros dos debates, as dinâmicas em grupo, o material fotográfico e sonoro produzido, as metodologias aplicadas, e os primeiros encaminhamentos de continuidade.
 
 ## Diário de bordo
 
 * **Documentação e memória das atividades:**
   * [Dia 1 (30/07) · Chegada e Abertura no LACO]({{ '/30-jul-laco' | relative_url }})
-  * [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul-debates-grupos' | relative_url }})
-  * [Dia 3 (01/08) · Saída de Campo e Oficina BARCAS]({{ '/01-ago-bacia-barcas' | relative_url }})
+  * [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul' | relative_url }})
+  * [Dia 3 (01/08) · Saída de Campo e Oficina BARCAS]({{ '/01-ago' | relative_url }})
 * **[Rádio Mar das Coisas]({{ '/radio-mdc' | relative_url }}):** Áudios, entrevistas e gravações sonoras realizadas durante as atividades.
 * **[Oficina BARCAS]({{ '/oficina-barcas' | relative_url }}):** Metodologia, matrizes de trabalho e resultados da oficina de projetos.
 * **[Caderno de Anotações]({{ '/caderno-de-campo' | relative_url }}):** Páginas digitalizadas e notas do caderno de bordo do encontro.
 * **[Registros de Campo & Dados]({{ '/registros-e-dados' | relative_url }}):** Mapeamentos locais, identificação bioacústica de aves e notas técnicas.
-* **[Rascunho da Carta do Encontro]({{ '/manifesto' | relative_url }}):** Versão preliminar da carta-manifesto em fase de leitura e validação com as participantes.
+* **[Rascunho da Carta do Encontro]({{ '/manifesto' | relative_url }}):** Versão preliminar da carta-manifesto.
 * **[Créditos & Galeria de Mídias]({{ '/creditos' | relative_url }}):** Autoria das fotos, vídeos e termos de licenciamento aberto (Creative Commons).
 
 ---

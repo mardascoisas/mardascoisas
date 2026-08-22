@@ -2,7 +2,7 @@
 title: Mar das Coisas - 01/08/26
 description: null
 published: true
-date: 2026-08-22 12:41:48.993000+00:00
+date: 2026-08-22 18:18:16.326000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-22 12:41:48.993000+00:00
@@ -14,13 +14,9 @@ layout: default
 
 # 01/08 · Saída a Campo e Oficina BARCAS Regenerativas
 
----
-
 ## Panorama do Dia
 
-O terceiro dia levou o encontro para o centro de Ubatuba e para o percurso dos rios da bacia. Pela manhã, os participantes realizaram percursos de campo e observação de bacias hidrográficas. À tarde, o grupo se reuniu na Casa de Saúde Cultura Viva para a Oficina BARCAS e a síntese final.
-
----
+O terceiro dia levou o encontro Mar das Coisas para o centro de Ubatuba e para o percurso dos rios da bacia. Pela manhã, os participantes realizaram percursos de campo e observação de bacias hidrográficas. À tarde, o grupo se reuniu na Casa de Saúde Cultura Viva para a Oficina BARCAS e a síntese final.
 
 ## Atividades Realizadas
 
@@ -55,4 +51,5 @@ Apresentação dos resultados dos grupos, primeiros debates sobre o rascunho da 
 
 * Anterior: [31/07 · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul' | relative_url }})
 * Próximo: [Oficina BARCAS]({{ '/oficina-barcas' | relative_url }})
-* [Diário de Bordo]({{ '' | relative_url }}) | [Créditos das Mídias]({{ '/creditos' | relative_url }})
+* [Diário de Bordo]({{ '' | relative_url }})
+* [Créditos das Mídias]({{ '/creditos' | relative_url }})
