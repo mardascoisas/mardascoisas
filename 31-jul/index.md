@@ -1,0 +1,55 @@
+---
+title: Mar das Coisas - 31/07/26
+description: null
+published: true
+date: 2026-08-22 12:42:30.293000+00:00
+tags: null
+editor: markdown
+dateCreated: 2026-08-22 12:36:41.926000+00:00
+layout: default
+---
+
+***Convocatória de Propostas e Participação***
+
+
+# 31/07 · Debates Temáticos e Dinâmica em Grupos
+
+---
+
+## Panorama do Dia
+
+O segundo dia articulou debates conceituais e diagnósticos práticos na sala do LACO com uma dinâmica de criação coletiva ao ar livre, conduzida à beira-mar. 
+
+---
+
+## Atividades Realizadas
+
+### Cartas Climáticas e Criação Coletiva
+Facilitada por **Fabiane M. Borges** (Psique.Space / LACO IOUSP), a dinâmica distribuiu cartas entre participantes.
+
+* Em pequenos grupos, participantes desenvolveram histórias, mitologias e cenários especulativos relacionando águas, território, futuros e memórias locais.
+
+![Fabiane Borges facilitando a dinâmica]({{ '/assets/media/f_20260731_20260731_101441.jpg' | relative_url }})
+*Fabiane M. Borges durante a apresentação da metodologia. Foto: Doutor F / CC BY-SA 4.0*
+
+![Roda ao ar livre com as cartas à beira-mar]({{ '/assets/media/f_20260731_20260731_105944.jpg' | relative_url }})
+*Dinâmica com o baralho de cartas de ficção e futuros, sob a sombra das árvores de frente para o mar. Foto: Doutor F / CC BY-SA 4.0*
+
+### Arte, Ciência e Materialidades da Água
+Apresentação de pesquisas e práticas artísticas dedicadas a ambientes costeiros, infraestruturas e transformações ecológicas:
+* Malu Hatoum (UFF)
+* Mariana Vilela
+* Teresa Dillon (Repair Acts / Winchester School of Art / Univ. de Southampton)
+* Diana Zatz.
+
+![Debates e trocas no LACO]({{ '/assets/media/f_20260731_20260731_140509.jpg' | relative_url }})
+*Vivência com a obra de Mariana Vilela durante as apresentações da tarde. Foto: Doutor F / CC BY-SA 4.0*
+
+
+---
+
+## Navegação
+
+* Anterior: [30/07 · Chegada e Abertura no LACO]({{ '/30-jul-laco' | relative_url }})
+* Próximo: [01/08 · Saída de Campo e Oficina BARCAS]({{ '/01-ago' | relative_url }})
+* [Diário de Bordo]({{ '' | relative_url }}) | [Créditos das Mídias]({{ '/creditos' | relative_url }})
