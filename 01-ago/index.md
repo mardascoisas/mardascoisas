@@ -9,7 +9,7 @@ dateCreated: 2026-08-22 12:41:48.993000+00:00
 layout: default
 ---
 
-***Convocatória de Propostas e Participação***
+***Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba***
 
 
 # 01/08 · Saída a Campo e Oficina BARCAS Regenerativas

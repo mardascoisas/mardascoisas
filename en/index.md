@@ -9,7 +9,7 @@ dateCreated: 2026-03-30 08:15:32.235000+00:00
 layout: default
 ---
 
-***Convocatória de Propostas e Participação***
+***Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba***
 
 
 # Tropixel: Mar das Coisas / Sea of Things

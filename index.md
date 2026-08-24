@@ -3,7 +3,7 @@ title: 'Tropixel Ciclos: Mar das Coisas'
 layout: default
 ---
 
-***Convocatória de Propostas e Participação***
+***Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba***
 
 
 

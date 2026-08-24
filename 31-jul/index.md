@@ -9,7 +9,7 @@ dateCreated: 2026-08-22 12:36:41.926000+00:00
 layout: default
 ---
 
-***Convocatória de Propostas e Participação***
+***Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba***
 
 
 # 31/07 · Debates Temáticos e Dinâmica em Grupos

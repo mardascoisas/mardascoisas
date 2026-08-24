@@ -9,7 +9,7 @@ dateCreated: 2026-08-21 14:05:38.192000+00:00
 layout: default
 ---
 
-***Convocatória de Propostas e Participação***
+***Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba***
 
 
 # 30/07 · Chegada e Abertura no LACO
