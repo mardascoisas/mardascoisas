@@ -2,7 +2,7 @@
 title: Mar das Coisas - 31/07/26
 description: null
 published: true
-date: 2026-08-22 18:19:45.439000+00:00
+date: 2026-08-25 18:20:01.702000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-22 12:36:41.926000+00:00
@@ -41,11 +41,16 @@ Apresentação de pesquisas e práticas artísticas dedicadas a ambientes costei
 ![Debates e trocas no LACO]({{ '/assets/media/f_20260731_20260731_140509.jpg' | relative_url }})
 *Vivência com a obra de Mariana Vilela durante as apresentações da tarde. Foto: Doutor F / CC BY-SA 4.0*
 
+---
+
+## Registros Audiovisuais
+
+* Registros em vídeo do dia 31/07 (dinâmica das cartas na grama à beira-mar e debates de arte/ciência no LACO) estão preservados no [Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f).
 
 ---
 
 ## Navegação
 
 * Anterior: [30/07 · Chegada e Abertura no LACO]({{ '/30-jul-laco' | relative_url }})
-* Próximo: [01/08 · Saída de Campo e Oficina BARCAS]({{ '/01-ago' | relative_url }})
+* Próximo: [01/08 · Saída a Campo e Oficina BARCAS]({{ '/01-ago' | relative_url }})
 * [Diário de Bordo]({{ '' | relative_url }}) | [Créditos das Mídias]({{ '/creditos' | relative_url }})
