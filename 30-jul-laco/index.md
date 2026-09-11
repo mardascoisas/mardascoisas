@@ -2,7 +2,7 @@
 title: Mar das Coisas - 30/07/26
 description: null
 published: true
-date: 2026-09-07 15:58:18.441000+00:00
+date: 2026-09-11 17:19:11.099000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-21 14:05:38.192000+00:00
@@ -14,13 +14,9 @@ layout: default
 
 # 30/07 · Chegada e Abertura no LACO
 
----
-
 ## Panorama do Dia
 
 O primeiro dia do encontro Mar das Coisas aconteceu na Base de Pesquisa "Clarimundo de Jesus" do Instituto Oceanográfico da USP (IOUSP), localizada na Praia do Lamberto, em Ubatuba. As atividades concentraram-se no espaço do LACO (Laboratório de Arte e Ciência Oceânica).
-
----
 
 ## Atividades Realizadas
 
@@ -34,13 +30,13 @@ O primeiro dia do encontro Mar das Coisas aconteceu na Base de Pesquisa "Clarimu
 - Visita aos laboratórios do IOUSP.
 
 ![Chegada na Base Oceanográfica do IOUSP]({{ '/assets/media/f_20260730_20260730_094051.jpg' | relative_url }})
-*Chegada na Base de Pesquisa Clarimundo de Jesus na Praia do Lamberto. Foto: Doutor F / CC BY-SA 4.0*
+*Chegada na Base de Pesquisa Clarimundo de Jesus na Praia do Lamberto. Foto: Doutor F / CC BY 4.0*
 
 ![Apresentação e abertura no LACO]({{ '/assets/media/katia_20260730_121731.jpg' | relative_url }})
 *Foto: Katia Zirnberger / CC BY-SA 4.0*
 
 ![Encontros e conversas na Base]({{ '/assets/media/bernardo_20260730_120824.jpg' | relative_url }})
-*Visita ao LAPS. Foto: Bernardo / CC BY-SA 4.0*
+*Visita ao LAPS. Foto: Bernardo / CC BY 4.0*
 
 
 ### Tarde 1: Roda de Apresentação
@@ -59,7 +55,7 @@ Apresentação de projetos, organizações e iniciativas que atuam na pesquisa, 
 - *Moderação: Afonso Reis (LACO/IOUSP)*
 
 ![Debates sobre resíduos e saneamento no território]({{ '/assets/media/f_20260730_20260730_161511.jpg' | relative_url }})
-*Debates sobre gestão de resíduos e desafios costeiros. Foto: Doutor F / CC BY-SA 4.0*
+*Debates sobre gestão de resíduos e desafios costeiros. Foto: Doutor F / CC BY 4.0*
 
 ### Tarde 2: Roda de Conversa: Mergulho de Descontaminação
 
@@ -69,11 +65,7 @@ Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circula�
 
 * Registros em vídeo do dia 30/07 (chegada, visita aos laboratórios do IOUSP e debates) estão preservados no [Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f).
 
----
-
 ## Navegação
 
 * Anterior: [Página Inicial]({{ '' | relative_url }})
 * Próximo: [31/07 · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul' | relative_url }})
-* [Diário de Bordo]({{ '' | relative_url }})
-* [Créditos das Mídias]({{ '/creditos' | relative_url }})

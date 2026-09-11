@@ -21,12 +21,12 @@ Este site reúne a documentação aberta do encontro: os registros dos debates, 
   * [Dia 1 (30/07) · Chegada e Abertura no LACO]({{ '/30-jul-laco' | relative_url }})
   * [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul' | relative_url }})
   * [Dia 3 (01/08) · Saída a Campo e Oficina BARCAS]({{ '/01-ago' | relative_url }})
+    * Observações da [bacia hidrográfica do Rio Grande de Ubatuba]({{ '/riogrande' | relative_url }})
+    * Primeiro episódio da [Rádio Mar das Coisas]({{ '/radio' | relative_url }})
 * **[Oficina BARCAS]({{ '/oficina-barcas' | relative_url }}):** Metodologia, matrizes de trabalho e resultados da oficina de projetos.
 * **[Registros de Campo & Dados]({{ '/registros-e-dados' | relative_url }}):** Mapeamentos locais, identificação bioacústica de aves e notas técnicas.
 * **[Rascunho da Carta do Encontro]({{ '/manifesto' | relative_url }}):** Versão preliminar da carta-manifesto.
 * **[Créditos & Galeria de Mídias]({{ '/creditos' | relative_url }}):** Autoria das fotos, vídeos e termos de licenciamento aberto (Creative Commons).
-
----
 
 ![4807648_karuvadgraphy.jpg]({{ '/assets/media/4807648_karuvadgraphy.jpg' | relative_url }})
 

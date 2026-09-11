@@ -2,7 +2,7 @@
 title: Mar das Coisas - Oficina BARCAS
 description: null
 published: true
-date: 2026-09-07 16:12:29.488000+00:00
+date: 2026-09-11 17:24:28.922000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-24 19:17:33.626000+00:00
@@ -27,7 +27,7 @@ Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, em Ubatuba, a
 3. **Rotas de Ação:** Formulação de frentes de trabalho para educação ambiental, ciência cidadã e articulação política.
 
 ![Trabalho em pequenos grupos na Casa de Saúde Cultura Viva]({{ '/assets/media/f_barcas_20260801_144734.jpg' | relative_url }})
-*Grupos de trabalho desenvolvendo propostas colaborativas. Foto: Doutor F / CC BY-SA 4.0*
+*Grupos de trabalho desenvolvendo propostas colaborativas. Foto: Doutor F / CC BY 4.0*
 
 ## Resumo da transcrição da oficina
 
@@ -58,6 +58,5 @@ Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina con
 
 ## Navegação
 
-* [Diário de Bordo do Dia 3]({{ '/' | relative_url }})
+* [Diário de Bordo do Dia 3]({{ '/01-ago' | relative_url }})
 * [Rascunho da Carta do Encontro]({{ '/manifesto' | relative_url }})
-* [Página Inicial]({{ '' | relative_url }})
