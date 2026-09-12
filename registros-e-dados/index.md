@@ -2,7 +2,7 @@
 title: Mar das Coisas - Registros e Dados
 description: null
 published: true
-date: 2026-09-07 16:57:04.450000+00:00
+date: 2026-09-12 14:45:38.024000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-24 19:22:14.383000+00:00
@@ -12,100 +12,7 @@ layout: default
 ***Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba***
 
 
-# Caderno de Anotações & Registros de Campo
-
----
-
-## 1. Caderno de Anotações (Fac-símiles)
-
-Esta seção reúne as páginas manuscritas do caderno de anotações mantido durante os três dias do encontro Mar das Coisas. O caderno registra notas conceituais, fluxogramas, dados citados nas apresentações e sínteses dos debates.
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Página 1 do Caderno de Campo]({{ '/assets/media/f_caderno_1.jpg' | relative_url }})
-*Página 1: Abertura e primeiras anotações no LACO. Registro: Doutor F / CC BY-SA 4.0*
-
-</div>
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Página 2 do Caderno de Campo]({{ '/assets/media/f_caderno_2.jpg' | relative_url }})
-*Página 2: Notas sobre gestão hídrica, APAMLN, resíduos e Sabesp. Registro: Doutor F / CC BY-SA 4.0*
-
-</div>
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Página 3 do Caderno de Campo]({{ '/assets/media/f_caderno_3.jpg' | relative_url }})
-*Página 3: Esquemas sobre fabulação, dinâmicas de cartas e memórias. Registro: Doutor F / CC BY-SA 4.0*
-
-</div>
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Página 4 do Caderno de Campo]({{ '/assets/media/f_caderno_4.jpg' | relative_url }})
-*Página 4: Notas de campo e observação dos rios. Registro: Doutor F / CC BY-SA 4.0*
-
-</div>
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Página 5 do Caderno de Campo]({{ '/assets/media/f_caderno_5.jpg' | relative_url }})
-*Página 5: Sínteses da oficina BARCAS. Registro: Doutor F / CC BY-SA 4.0*
-
-</div>
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Página 6 do Caderno de Campo]({{ '/assets/media/f_caderno_6.jpg' | relative_url }})
-*Página 6: Encaminhamentos finais e próximas articulações. Registro: Doutor F / CC BY-SA 4.0*
-
-</div>
-
----
-
-## 2. Identificação Bioacústica de Aves (Merlin Bird ID)
-
-Durante a saída de campo pela bacia hidrográfica em 1º de agosto de 2026, foram realizados registros bioacústicos de espécies de aves em tempo real com o aplicativo de ciência comunitária *Merlin Bird ID*:
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Registro Bioacústico no Merlin Bird ID - Registro 1]({{ '/assets/media/katia_screenshot_20260801_131747_merlin_bird_id.jpg' | relative_url }})
-*Identificação bioacústica de espécies na bacia hidrográfica. Captura: Katia Zirnberger / CC BY-SA 4.0*
-
-</div>
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Registro Bioacústico no Merlin Bird ID - Registro 2]({{ '/assets/media/katia_screenshot_20260801_131818_merlin_bird_id.jpg' | relative_url }})
-*Registro de espécies de aves em tempo real durante a saída de campo. Captura: Katia Zirnberger / CC BY-SA 4.0*
-
-</div>
-
----
-
-## 3. Mapeamentos Territoriais e Pontos Críticos
-
-<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
-
-![Ponto de mapeamento em campo]({{ '/assets/media/katia_screenshot_20260801_103724_maps.jpg' | relative_url }})
-*Localização e registro de coordenadas no percurso pela bacia. Captura: Katia Zirnberger / CC BY-SA 4.0*
-
-</div>
-
-* **Rio Acaraú:** Observação da foz, canalização urbana e pontos próximos a emissários.
-* **Rio Tavares:** Registros visuais das margens, assoreamento e ocupação do entorno.
-* **Rio Grande:** Mapeamento de trechos de mata ciliar, dinâmica de marés e circulação de resíduos.
-
----
-
-## 4. Acervo Audiovisual & Vídeos
-
-Todos os vídeos originais (25 clipes gravados por Bernardo, Katia Zirnberger e Doutor F) e áudios estão preservados em domínio público e acesso aberto no **[Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f)**.
-
----
-
-## 5. Galeria de Mídias e Registros de Campo
+## 1. Galeria de Mídias e Registros de Campo
 
 Acervo com todas as 154 mídias fotográficas e capturas organizadas por participante (clique no nome do arquivo para abrir em tamanho real):
 
@@ -186,9 +93,51 @@ Acervo com todas as 154 mídias fotográficas e capturas organizadas por partici
 | ![rg_screenshot_20260801-133751.png]({{ '/assets/media/rg_screenshot_20260801-133751.png' | relative_url }})<br><sub>[`rg_screenshot_20260801-133751.png`]({{ '/assets/media/rg_screenshot_20260801-133751.png' | relative_url }})</sub> |  |  |
 
 
----
+## 2. Acervo Audiovisual
+
+Todos os vídeos originais (25 clipes) e áudios estão preservados em domínio público e acesso aberto no **[Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f)**.
+
+## 3. Identificação Bioacústica de Aves (Merlin Bird ID)
+
+Durante a saída de campo pela bacia hidrográfica em 1º de agosto de 2026, foram realizados registros bioacústicos de espécies de aves em tempo real com o aplicativo de ciência comunitária *Merlin Bird ID*:
+
+<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
+
+![Registro Bioacústico no Merlin Bird ID - Registro 1]({{ '/assets/media/katia_screenshot_20260801_131747_merlin_bird_id.jpg' | relative_url }})
+*Identificação bioacústica de espécies na bacia hidrográfica. Captura: Katia Zirnberger / CC BY-SA 4.0*
+
+</div>
+
+<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
+
+![Registro Bioacústico no Merlin Bird ID - Registro 2]({{ '/assets/media/katia_screenshot_20260801_131818_merlin_bird_id.jpg' | relative_url }})
+*Registro de espécies de aves em tempo real durante a saída de campo. Captura: Katia Zirnberger / CC BY-SA 4.0*
+
+</div>
+
+## 4. Caderno de Anotações
+
+Esta seção reúne as páginas manuscritas do caderno de anotações mantido por Doutor F durante os três dias do encontro Mar das Coisas. O caderno registra notas conceituais, fluxogramas, dados citados nas apresentações e sínteses dos debates.
+
+<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
+
+![Página 1 do Caderno de Campo]({{ '/assets/media/f_caderno_1.jpg' | relative_url }})
+
+</div>
+
+<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
+
+![Página 2 do Caderno de Campo]({{ '/assets/media/f_caderno_2.jpg' | relative_url }})
+
+</div>
+
+<div align="center" style="max-width: 580px; margin: 2rem auto;" markdown="1">
+
+![Página 3 do Caderno de Campo]({{ '/assets/media/f_caderno_3.jpg' | relative_url }})
+
+</div>
+
 
 ## Navegação
 
 * [Diário de Bordo]({{ '' | relative_url }})
-* [Página Inicial]({{ '' | relative_url }}) | [Créditos]({{ '/creditos' | relative_url }})

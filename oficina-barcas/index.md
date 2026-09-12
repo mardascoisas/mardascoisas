@@ -2,7 +2,7 @@
 title: Mar das Coisas - Oficina BARCAS
 description: null
 published: true
-date: 2026-09-11 17:24:28.922000+00:00
+date: 2026-09-12 14:45:18.732000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-24 19:17:33.626000+00:00
@@ -19,12 +19,6 @@ layout: default
 A oficina **BARCAS** (*Bússola Exploradora da Regeneração Cultural, Ambiental e Social*), facilitada por **Floriana Breyer** (Biodiversas Lab), é uma dinâmica de facilitação e cocriação voltada à estruturação de alianças e projetos colaborativos de regeneração socioecológica.
 
 Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, em Ubatuba, a oficina estruturou os diagnósticos e percepções acumulados nos dias anteriores em planos de ação e propostas coletivas.
-
-## Matrizes de Trabalho
-
-1. **Diagnóstico Territorial:** Mapeamento de feridas ecológicas, pontos de contaminação e potencialidades das bacias locais.
-2. **Conexão de Saberes:** Articulação entre ciência comunitária, saberes tradicionais caiçaras/indígenas/quilombolas e práticas artísticas.
-3. **Rotas de Ação:** Formulação de frentes de trabalho para educação ambiental, ciência cidadã e articulação política.
 
 ![Trabalho em pequenos grupos na Casa de Saúde Cultura Viva]({{ '/assets/media/f_barcas_20260801_144734.jpg' | relative_url }})
 *Grupos de trabalho desenvolvendo propostas colaborativas. Foto: Doutor F / CC BY 4.0*
@@ -53,8 +47,6 @@ Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina con
 - Acervo Vivo Ubatuba: Criação de uma plataforma aberta (WordPress/Tainacan) para reunir teses, mapeamentos e a memória de lutas históricas do município, como a vitória contra a indústria de armas nos anos 1980.
 - Ocupação dos Conselhos: Mobilização para ocupar comitês de bacias, conselhos de meio ambiente, saúde e cultura, exigindo fiscalização da Sabesp e uso consciente dos recursos da Taxa de Preservação Ambiental (TPA).
 - A oficina encerrou-se com a união do grupo em círculos de engajamento e a consagração da senha de resistência: "Confabulação de fluidos e fluxos encantados".
-
----
 
 ## Navegação
 
