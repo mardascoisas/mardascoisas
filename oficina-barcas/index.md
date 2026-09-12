@@ -2,7 +2,7 @@
 title: Mar das Coisas - Oficina BARCAS
 description: null
 published: true
-date: 2026-09-12 14:45:18.732000+00:00
+date: 2026-09-12 15:59:08.095000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-24 19:17:33.626000+00:00
@@ -18,14 +18,16 @@ layout: default
 
 A oficina **BARCAS** (*Bússola Exploradora da Regeneração Cultural, Ambiental e Social*), facilitada por **Floriana Breyer** (Biodiversas Lab), é uma dinâmica de facilitação e cocriação voltada à estruturação de alianças e projetos colaborativos de regeneração socioecológica.
 
-Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, em Ubatuba, a oficina estruturou os diagnósticos e percepções acumulados nos dias anteriores em planos de ação e propostas coletivas.
+Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, em Ubatuba, a oficina estruturou os diagnósticos e percepções acumulados nos dias anteriores do encontro [Mar das Coisas](https://mardascoisas.tropixel.org) em planos de ação e propostas coletivas.
 
 ![Trabalho em pequenos grupos na Casa de Saúde Cultura Viva]({{ '/assets/media/f_barcas_20260801_144734.jpg' | relative_url }})
 *Grupos de trabalho desenvolvendo propostas colaborativas. Foto: Doutor F / CC BY 4.0*
 
 ## Resumo da transcrição da oficina
 
-Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina conduzida por Floriana Breyer utilizou a metodologia do jogo BARCAS (uma bússola de navegação territorial) para pensar o futuro das bacias hidrográficas de Ubatuba.
+Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina conduzida por Floriana Breyer utilizou a metodologia do jogo BARCAS (uma bússola de navegação territorial) para pensar o futuro das bacias hidrográficas de Ubatuba.# Caderno de Anotações & Registros de Campo
+2
+
 
 ### 1. A Metáfora e os Tripulantes
 
@@ -50,5 +52,5 @@ Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina con
 
 ## Navegação
 
-* [Diário de Bordo do Dia 3]({{ '/01-ago' | relative_url }})
-* [Rascunho da Carta do Encontro]({{ '/manifesto' | relative_url }})
+* Anterior: [Diário de Bordo do Dia 3]({{ '/01-ago' | relative_url }})
+* Próximo: [Rascunho da Carta do Encontro]({{ '/manifesto' | relative_url }})

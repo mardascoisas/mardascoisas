@@ -18,19 +18,22 @@ Este site reúne a documentação aberta do encontro: os registros dos debates, 
 ## Diário de bordo
 
 * **Documentação e memória das atividades:**
-  * [Dia 1 (30/07) · Chegada e Abertura no LACO]({{ '/30-jul-laco' | relative_url }})
-  * [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul' | relative_url }})
-  * [Dia 3 (01/08) · Saída a Campo e Oficina BARCAS]({{ '/01-ago' | relative_url }})
+  * [Dia 1 (30/07) · Chegada, Abertura no LACO e Conversas Iniciais]({{ '/30-jul-laco' | relative_url }})
+  * [Dia 2 (31/07) · Dinâmica em Grupos e Debates Temáticos]({{ '/31-jul' | relative_url }})
+  * [Dia 3 (01/08) · Saídas a Campo e Oficina BARCAS]({{ '/01-ago' | relative_url }})
     * Observações da [bacia hidrográfica do Rio Grande de Ubatuba]({{ '/riogrande' | relative_url }})
     * Primeiro episódio da [Rádio Mar das Coisas]({{ '/radio' | relative_url }})
-* **[Oficina BARCAS]({{ '/oficina-barcas' | relative_url }}):** Metodologia, matrizes de trabalho e resultados da oficina de projetos.
-* **[Registros de Campo & Dados]({{ '/registros-e-dados' | relative_url }}):** Mapeamentos locais, identificação bioacústica de aves e notas técnicas.
-* **[Rascunho da Carta do Encontro]({{ '/manifesto' | relative_url }}):** Versão preliminar da carta-manifesto.
-* **[Créditos & Galeria de Mídias]({{ '/creditos' | relative_url }}):** Autoria das fotos, vídeos e termos de licenciamento aberto (Creative Commons).
+  * [Oficina BARCAS]({{ '/oficina-barcas' | relative_url }}): Metodologia, matrizes de trabalho e resultados da oficina de projetos.
+  
+Veja também:
+
+* [Registros de Campo & Dados]({{ '/registros-e-dados' | relative_url }}): Mapeamentos locais, registro audiovisual e cadernos de campo.
+* [Rascunho da Carta do Encontro]({{ '/manifesto' | relative_url }}): Versão preliminar da carta-manifesto.
+* [Créditos & Galeria de Mídias]({{ '/creditos' | relative_url }}): Autoria das fotos, vídeos e termos de licenciamento aberto (Creative Commons).
 
 ![4807648_karuvadgraphy.jpg]({{ '/assets/media/4807648_karuvadgraphy.jpg' | relative_url }})
 
-Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
+*Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>*
 
 ## Texto curatorial / convite a propostas
 
@@ -48,14 +51,11 @@ O Mar das Coisas nomeia esse campo em que matéria e informação circulam junta
 
 O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpress.com/) é uma plataforma transdisciplinar que atua na intersecção entre arte, ciência e tecnologias do oceano. Realiza exposições, cursos de formação, residências artísticas e publicações científicas. Atua em diálogo direto com infraestruturas oceanográficas e territórios costeiros.
 
----
-
-Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em Ubatuba, estruturando o encontro em torno da água como sistema material.
-
----
 **ORGANIZAÇÃO** 
-- Felipe Schmidt Fonseca - /U.CC/ + Tropixel
+
 - Fabiane M. Borges - LACO / IOUSP
+- Felipe Schmidt Fonseca - /U.CC/ + Tropixel
+
 
 **REALIZAÇÃO**
 
@@ -66,11 +66,6 @@ Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em 
 
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
-**APOIO:** Casa de Saúde Cultura Viva
+**APOIO:** Casa Saúde Cultura Viva
 
 ![logos-todos.png]({{ '/assets/media/logos-todos.png' | relative_url }})
-
-### Veja também
-
-- [English version]({{ '/en' | relative_url }})
-- [Tropixel Ciclos 2026](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos)

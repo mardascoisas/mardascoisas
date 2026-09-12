@@ -2,7 +2,7 @@
 title: Mar das Coisas - Registros e Dados
 description: null
 published: true
-date: 2026-09-12 14:45:38.024000+00:00
+date: 2026-09-12 16:13:17.543000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-24 19:22:14.383000+00:00
@@ -12,13 +12,20 @@ layout: default
 ***Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba***
 
 
-## 1. Galeria de Mídias e Registros de Campo
+## Índice
 
-Acervo com todas as 154 mídias fotográficas e capturas organizadas por participante (clique no nome do arquivo para abrir em tamanho real):
+- <a href="#imagens">1. Imagens</a>
+- <a href="#audiovisual">2. Audiovisual</a>
+- <a href="#aves">3. Identificação de aves</a>
+- <a href="#caderno">4. Caderno de campo</a>
+
+## <a id="imagens"></a>1. Galeria de Imagens
+
+Acervo com todas as 154 mídias fotográficas e capturas organizadas por participantes do encontro [Mar das Coisas](https://mardascoisas.tropixel.org) (clique no nome do arquivo para abrir em tamanho real):
 
 ### Bernardo (15 mídias)
 
-| | | |
+| | | |imagens
 | :---: | :---: | :---: |
 | ![bernardo_20260730_120824.jpg]({{ '/assets/media/bernardo_20260730_120824.jpg' | relative_url }})<br><sub>[`bernardo_20260730_120824.jpg`]({{ '/assets/media/bernardo_20260730_120824.jpg' | relative_url }})</sub> | ![bernardo_20260801_101242.jpg]({{ '/assets/media/bernardo_20260801_101242.jpg' | relative_url }})<br><sub>[`bernardo_20260801_101242.jpg`]({{ '/assets/media/bernardo_20260801_101242.jpg' | relative_url }})</sub> | ![bernardo_20260801_103624.jpg]({{ '/assets/media/bernardo_20260801_103624.jpg' | relative_url }})<br><sub>[`bernardo_20260801_103624.jpg`]({{ '/assets/media/bernardo_20260801_103624.jpg' | relative_url }})</sub> |
 | ![bernardo_20260801_103833.jpg]({{ '/assets/media/bernardo_20260801_103833.jpg' | relative_url }})<br><sub>[`bernardo_20260801_103833.jpg`]({{ '/assets/media/bernardo_20260801_103833.jpg' | relative_url }})</sub> | ![bernardo_20260801_104250.jpg]({{ '/assets/media/bernardo_20260801_104250.jpg' | relative_url }})<br><sub>[`bernardo_20260801_104250.jpg`]({{ '/assets/media/bernardo_20260801_104250.jpg' | relative_url }})</sub> | ![bernardo_20260801_104333.jpg]({{ '/assets/media/bernardo_20260801_104333.jpg' | relative_url }})<br><sub>[`bernardo_20260801_104333.jpg`]({{ '/assets/media/bernardo_20260801_104333.jpg' | relative_url }})</sub> |
@@ -84,7 +91,7 @@ Acervo com todas as 154 mídias fotográficas e capturas organizadas por partici
 | ![katia_screenshot_20260801_131818_merlin_bird_id.jpg]({{ '/assets/media/katia_screenshot_20260801_131818_merlin_bird_id.jpg' | relative_url }})<br><sub>[`katia_screenshot_20260801_131818_merlin_bird_id.jpg`]({{ '/assets/media/katia_screenshot_20260801_131818_merlin_bird_id.jpg' | relative_url }})</sub> | ![katia_screenshot_20260801_131830_merlin_bird_id.jpg]({{ '/assets/media/katia_screenshot_20260801_131830_merlin_bird_id.jpg' | relative_url }})<br><sub>[`katia_screenshot_20260801_131830_merlin_bird_id.jpg`]({{ '/assets/media/katia_screenshot_20260801_131830_merlin_bird_id.jpg' | relative_url }})</sub> |  |
 
 
-### RG (7 mídias)
+### Rosana Gaeta (7 mídias)
 
 | | | |
 | :---: | :---: | :---: |
@@ -93,11 +100,11 @@ Acervo com todas as 154 mídias fotográficas e capturas organizadas por partici
 | ![rg_screenshot_20260801-133751.png]({{ '/assets/media/rg_screenshot_20260801-133751.png' | relative_url }})<br><sub>[`rg_screenshot_20260801-133751.png`]({{ '/assets/media/rg_screenshot_20260801-133751.png' | relative_url }})</sub> |  |  |
 
 
-## 2. Acervo Audiovisual
+## <a id="audiovisual"></a>2. Acervo Audiovisual
 
 Todos os vídeos originais (25 clipes) e áudios estão preservados em domínio público e acesso aberto no **[Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f)**.
 
-## 3. Identificação Bioacústica de Aves (Merlin Bird ID)
+## <a id="aves"></a>3. Identificação Bioacústica de Aves
 
 Durante a saída de campo pela bacia hidrográfica em 1º de agosto de 2026, foram realizados registros bioacústicos de espécies de aves em tempo real com o aplicativo de ciência comunitária *Merlin Bird ID*:
 
@@ -115,7 +122,7 @@ Durante a saída de campo pela bacia hidrográfica em 1º de agosto de 2026, for
 
 </div>
 
-## 4. Caderno de Anotações
+## <a id="caderno"></a>4. Caderno de Anotações
 
 Esta seção reúne as páginas manuscritas do caderno de anotações mantido por Doutor F durante os três dias do encontro Mar das Coisas. O caderno registra notas conceituais, fluxogramas, dados citados nas apresentações e sínteses dos debates.
 
@@ -137,7 +144,6 @@ Esta seção reúne as páginas manuscritas do caderno de anotações mantido po
 
 </div>
 
-
 ## Navegação
 
-* [Diário de Bordo]({{ '' | relative_url }})
+* [Página Inicial](https://mardascoisas.tropixel.org)

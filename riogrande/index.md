@@ -2,7 +2,7 @@
 title: Bacia Hidrográfica do Rio Grande de Ubatuba
 description: null
 published: true
-date: 2026-09-11 17:22:41.525000+00:00
+date: 2026-09-12 15:53:55.203000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-09-11 17:22:41.525000+00:00
@@ -14,4 +14,4 @@ layout: default
 
 # Bacia Hidrográfica do Rio Grande de Ubatuba
 
-Observações colhidas durante o [encontro Mar das Coisas]({{ '' | relative_url }}).
+Observações colhidas durante o encontro [Mar das Coisas](https://mardascoisas.tropixel.org).

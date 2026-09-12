@@ -2,7 +2,7 @@
 title: Mar das Coisas - 30/07/26
 description: null
 published: true
-date: 2026-09-11 17:19:11.099000+00:00
+date: 2026-09-12 16:15:00.361000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-21 14:05:38.192000+00:00
@@ -16,7 +16,7 @@ layout: default
 
 ## Panorama do Dia
 
-O primeiro dia do encontro Mar das Coisas aconteceu na Base de Pesquisa "Clarimundo de Jesus" do Instituto Oceanográfico da USP (IOUSP), localizada na Praia do Lamberto, em Ubatuba. As atividades concentraram-se no espaço do LACO (Laboratório de Arte e Ciência Oceânica).
+O primeiro dia do encontro [Mar das Coisas](https://mardascoisas.tropixel.org) aconteceu na Base de Pesquisa "Clarimundo de Jesus" do Instituto Oceanográfico da USP (IOUSP), localizada na Praia do Lamberto, em Ubatuba. As atividades concentraram-se no espaço do LACO (Laboratório de Arte e Ciência Oceânica).
 
 ## Atividades Realizadas
 
@@ -69,3 +69,5 @@ Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circula�
 
 * Anterior: [Página Inicial]({{ '' | relative_url }})
 * Próximo: [31/07 · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul' | relative_url }})
+* [Página Inicial](https://mardascoisas.tropixel.org)
+

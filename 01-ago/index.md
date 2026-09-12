@@ -2,7 +2,7 @@
 title: Mar das Coisas - 01/08/26
 description: null
 published: true
-date: 2026-09-11 17:17:42.663000+00:00
+date: 2026-09-12 16:15:45.204000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-22 12:41:48.993000+00:00
@@ -16,7 +16,7 @@ layout: default
 
 ## Panorama do Dia
 
-O terceiro dia levou o encontro Mar das Coisas para o centro de Ubatuba e para o percurso dos rios da bacia. Pela manhã, os participantes realizaram percursos de campo e observação de bacias hidrográficas. À tarde, o grupo se reuniu na Casa de Saúde Cultura Viva para a Oficina BARCAS e a síntese final.
+O terceiro dia levou o encontro [Mar das Coisas](https://mardascoisas.tropixel.org) para o centro de Ubatuba e para o percurso dos rios da bacia. Pela manhã, participantes realizaram percursos de campo e observação de bacias hidrográficas. À tarde, o grupo se reuniu na Casa de Saúde Cultura Viva para a Oficina BARCAS e a síntese final.
 
 ## Atividades Realizadas
 
@@ -46,3 +46,5 @@ Sediada na Casa de Saúde Cultura Viva e facilitada por **Floriana Breyer** (Bio
 
 * Anterior: [31/07 · Debates Temáticos e Dinâmica em Grupos]({{ '/31-jul' | relative_url }})
 * Próximo: [Oficina BARCAS]({{ '/oficina-barcas' | relative_url }})
+* [Página Inicial](https://mardascoisas.tropixel.org)
+

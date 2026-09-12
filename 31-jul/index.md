@@ -2,7 +2,7 @@
 title: Mar das Coisas - 31/07/26
 description: null
 published: true
-date: 2026-09-11 17:18:27.442000+00:00
+date: 2026-09-12 16:15:24.275000+00:00
 tags: null
 editor: markdown
 dateCreated: 2026-08-22 12:36:41.926000+00:00
@@ -16,7 +16,7 @@ layout: default
 
 ## Panorama do Dia
 
-O segundo dia do Mar das Coisas articulou debates conceituais e diagnósticos práticos na sala do LACO com uma dinâmica de criação coletiva ao ar livre, conduzida à beira-mar. 
+O segundo dia do [Mar das Coisas](https://mardascoisas.tropixel.org) articulou debates conceituais e diagnósticos práticos na sala do LACO com uma dinâmica de criação coletiva ao ar livre, conduzida à beira-mar. 
 
 ## Atividades Realizadas
 
@@ -53,3 +53,4 @@ Apresentação de pesquisas e práticas artísticas dedicadas a ambientes costei
 
 * Anterior: [30/07 · Chegada e Abertura no LACO]({{ '/30-jul-laco' | relative_url }})
 * Próximo: [01/08 · Saída a Campo e Oficina BARCAS]({{ '/01-ago' | relative_url }})
+* [Página Inicial](https://mardascoisas.tropixel.org)
